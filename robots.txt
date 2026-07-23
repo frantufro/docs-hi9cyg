@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-w0wbox.kujang138bos.online/sitemap.xml
